@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AutoCompelete TextView Example</string>
+
+    <string-array name="colors">
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>black</item>
+        <item>yellow</item>
+        <item>brown</item>
+        <item>gray</item>
+
+</string-array>
+
+</resources>
